@@ -1,0 +1,66 @@
+
+/*
+#paraTest{color: blue}
+#test{color:red}
+a{color:yellow} 
+
+a:hover{background-color:green;}
+
+.container {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+  }
+  
+  button {
+    width: 200px;
+  }
+
+  .first{}
+
+ display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+
+  
+form > * {background-color: blue;
+border: solid }
+
+.container {
+  border: solid; 
+  width: 200px;
+  height: 200px;
+  overflow:scroll;
+}
+
+#list, #list li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+ 
+}
+
+#list li{
+  margin-left: 20px;
+
+}
+.container{
+
+ background-image: url("puupy.jpg");
+ background-repeat: no-repeat;
+ background-size: 100px;
+ 
+
+}
+
+.container {
+  border: solid; 
+  width: 50%;
+  height: 200px;
+  overflow:scroll;
+ position: relative; 
+ left:25%;
+}
+
+*/
